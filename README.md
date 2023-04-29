@@ -19,11 +19,11 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 ## Etapes du projet
 
 ### Modèle Conceptuel de Données (MCD)
-![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_2.%20MCD.jpg?raw=true)
+![alt text]([https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_2.%20MCD.jpg?raw=true)
 <br>
 
 ### Modèle Physique de Données (MPD)
-![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3. MPD.jpg?raw=true)
+![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3.%20MPD.jpg?raw=true)
 <br>
 
 ### Création de la base de données avec PostgreSQL:
@@ -36,7 +36,7 @@ Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables 
   
 * vente.csv est un fichier de 34169 lignes et 5 colonnes
  
-![alt text][Création de la base SQL.jpg](attachment:1212e0d4-c063-4cf8-a9ee-54f46c4a37d7.jpg)
+![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Cr%C3%A9ation%20de%20la%20base%20SQL.jpg)
 
 <br>
 
