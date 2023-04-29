@@ -18,6 +18,9 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 
 ## Etapes du projet
 
+### Nettoyage et traitement des données brutes
+Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables au format csv.
+
 ### Modèle Conceptuel de Données (MCD)
 ![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_2.%20MCD.jpg?raw=true)
 <br>
@@ -26,15 +29,7 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 ![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3.%20MPD.jpg?raw=true)
 <br>
 
-### Création de la base de données avec PostgreSQL:
-
-Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables au format csv :
-
-* bien.csv est un fichier de 34161 lignes et 8 colonnes 
-    
-* commune.csv est un fichier de 3125 lignes et 3 colonnes
-  
-* vente.csv est un fichier de 34169 lignes et 5 colonnes
+### Création de la base de données dans PostgreSQL:
  
 ![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Cr%C3%A9ation%20de%20la%20base%20SQL.jpg)
 
