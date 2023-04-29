@@ -1,6 +1,5 @@
 # Créez et utilisez une base de données immobilière avec SQL
 ---
-<br>
 
 ## Compétences acquises à l'issue du projet
 * Créer le schéma d'une base de données
