@@ -23,7 +23,7 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 <br>
 
 ### Modèle Physique de Données (MPD)
-![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3. MPD.jpg)
+![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3. MPD.jpg?raw=true)
 <br>
 
 ### Création de la base de données avec PostgreSQL:
