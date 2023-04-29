@@ -5,7 +5,8 @@
 * Créer le schéma d'une base de données
 * Charger des données dans une base de données
 
-
+<br>
+---
 # Description du projet:
 Dans ce projet totalement réalisé en SQL, nous avons utilisé les Demandes de Valeurs Foncières obtenues sur le <a href="https://www.data.gouv.fr">site de données gouvernemental</a>.  
 Le fichier initial a été transformé avec Power Query pour obtenir 3 tables au format csv :
