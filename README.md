@@ -19,7 +19,7 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 ## Etapes du projet
 
 ### Modèle Conceptuel de Données (MCD)
-![P3_BERTRAND_2. MCD.jpg](attachment:6342bf29-8fa8-4759-924e-60e4a4cd2993.jpg)
+![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_2.%20MCD.jpg?raw=true)
 <br>
 
 ### Modèle Physique de Données (MPD)
