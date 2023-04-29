@@ -3,11 +3,11 @@
 <br>
 
 ## Compétences acquises à l'issue du projet
-* Mettre à jour un catalogue de données
-* Créer des tables dans une base de données
-* Effectuer des requêtes SQL pour répondre à une problématique métier
 * Créer le schéma d'une base de données
+* Créer des tables dans une base de données
 * Charger des données dans une base de données
+* Effectuer des requêtes SQL pour répondre à une problématique métier
+* Mettre à jour un catalogue de données
 
 <br>
 
@@ -20,6 +20,7 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 
 ### Nettoyage et traitement des données brutes
 Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables au format csv.
+<br>
 
 ### Modèle Conceptuel de Données (MCD)
 ![alt text](https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_2.%20MCD.jpg?raw=true)
