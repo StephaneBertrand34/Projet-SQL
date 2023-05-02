@@ -64,10 +64,10 @@ Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables 
 #### 5. Liste des 10 appartements les plus chers avec le département et le nombre de mètres carrés:
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%205.jpg" width="800"/>
 
-#### 6. Taux d’évolution du nombre de ventes entre le premier et le second trimestre de 2020:
+#### 6. Taux d’évolution du nombre de ventes entre le premier et le deuxième trimestre de 2020:
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%206.jpg" width="800"/>
 
-#### 7. Communes où le nombre de ventes a augmenté d'au moins 20% entre le premier et le second trimestre de 2020:
+#### 7. Communes où le nombre de ventes a augmenté d'au moins 20% entre le premier et le deuxième trimestre de 2020:
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%207.jpg" width="1200"/>
 
 #### 8. Différence en pourcentage du prix au mètre carré entre un appartement de 2 pièces et un appartement de 3 pièces:
