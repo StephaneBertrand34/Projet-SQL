@@ -11,7 +11,11 @@
 <br>
 
 ## Outils utilisés:
-
+<img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/powerQueryLogo_PowerQuery.png" alt="Looping" width="100" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/postgresql-card.png" title="Looping" alt="Looping" width="100" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/looping.jpg" title="Looping" alt="Looping" width="100" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/papyrus_small.png" title="Looping" alt="Looping" width="100" height="50"/>&nbsp;
+<img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/power%20architect.jpg" title="Looping" alt="Looping" width="80" height="50"/>
 
 
 <br>
@@ -46,28 +50,28 @@ Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables 
 ### Requêtes
 
 #### 1 . Nombre total d ’appartements vendus au 1er semestre 2020:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%201.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%201.jpg"/>
 
 #### 2. Proportion des ventes d’appartements par nombre de pièces:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%202.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%202.jpg"/>
 
 #### 3. Liste des 10 départements où le prix du mètre carré est le plus élevé:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%203.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%203.jpg"/>
 
 #### 4. Prix moyen du mètre carré d’une maison en Île-de-France:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%204.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%204.jpg"/>
 
 #### 5. Liste des 10 appartements les plus chers avec le département et le nombre de mètres carrés:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%205.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%205.jpg"/>
 
 #### 6. Taux d’évolution du nombre de ventes entre le premier et le second trimestre de 2020:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%206.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%206.jpg"/>
 
 #### 7. Communes où le nombre de ventes a augmenté d'au moins 20% entre le premier et le second trimestre de 2020:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%207.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%207.jpg"/>
 
 #### 8. Différence en pourcentage du prix au mètre carré entre un appartement de 2 pièces et un appartement de 3 pièces:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%208.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%208.jpg"/>
 
 #### 9. Les moyennes de valeurs foncières pour le top 3 des communes des départements 6, 13, 33, 59 et 69:
-<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAte%209.jpg"/>
+<img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Requ%C3%AAtes%20(jpg)/Requ%C3%AAte%209.jpg"/>
