@@ -1,8 +1,8 @@
-# Créez et utilisez une base de données immobilière avec SQL
+# Créer et utiliser une base de données immobilière avec SQL
 ---
 
 ## Compétences acquises à l'issue du projet
-* Créer le schéma d'une base de données
+* Créer le schéma de modélisation d'une base de données
 * Créer des tables dans une base de données
 * Charger des données dans une base de données
 * Effectuer des requêtes SQL pour répondre à une problématique métier
@@ -10,7 +10,7 @@
 
 <br>
 
-## Outils utilisés:
+## Outils utilisés
 <img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/powerQueryLogo_PowerQuery.png" title="Power Query" alt="Power Query" width="100" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/00-postgresql-logo.jpg" title="PostgreSQL" alt="PostgreSQL" width="80" height="50"/>&nbsp;
 <img src="https://github.com/StephaneBertrand34/SQL-Creer_et_utiliser_une_base_de_donnees_immobiliere/blob/main/img/looping.jpg" title="Looping" alt="Looping" width="105" height="50"/>&nbsp;
@@ -42,7 +42,7 @@ Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables 
 
 <br>
 
-### Implémentation de la base de données dans PostgreSQL:
+### Implémentation de la base de données dans PostgreSQL
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Cr%C3%A9ation%20de%20la%20base%20SQL.jpg"/>
 
 <br>
