@@ -10,8 +10,15 @@
 
 <br>
 
-## Cadre de la mission
-Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes de Valeurs Foncières" obtenues sur le <a href="https://www.data.gouv.fr">site de données gouvernemental.</a>  
+## Outils utilisés:
+
+
+
+<br>
+
+## Mise en situation
+Vous êtes Data Analyst chez Laplace Immo, un réseau national d'agences immobilières. Votre mission consiste à créer la base de données permettant de collecter les transactions immobilières et foncières en France. Vous utiliserez ensuite cette base pour analyser le marché et aider les différentes agences à mieux accompagner leurs clients.
+Les données brutes utilisées proviennent des "Demandes de Valeurs Foncières" obtenues sur le <a href="https://www.data.gouv.fr">site de données gouvernemental.</a> 
 
 <br>
 
@@ -19,6 +26,7 @@ Dans ce projet, il était demandé d'utiliser les données brutes des "Demandes 
 
 ### Nettoyage et traitement des données brutes
 Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables au format csv.
+
 <br>
 
 ### Modèle Conceptuel de Données (MCD)
@@ -27,10 +35,10 @@ Le fichier initial a été transformé avec Power Query afin d'obtenir 3 tables 
 
 ### Modèle Physique de Données (MPD)
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/P3_BERTRAND_3.%20MPD.jpg"/>
+
 <br>
 
-### Création de la base de données dans PostgreSQL:
- 
+### Implémentation de la base de données dans PostgreSQL:
 <img src="https://github.com/StephaneBertrand34/Projet-SQL/blob/main/Cr%C3%A9ation%20de%20la%20base%20SQL.jpg"/>
 
 <br>
